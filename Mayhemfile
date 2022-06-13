@@ -1,0 +1,4 @@
+project: binlex
+target: blyara
+cmds:
+  - cmd: /repo/build/blyara -i @@ -n a
